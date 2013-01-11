@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF2ItemsSimulator", "TF2ItemsSimulator\TF2ItemsSimulator\TF2ItemsSimulator.csproj", "{95DBA777-68C5-4447-80DA-23B36D7DF7AA}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TF2ItemsSimulatorContent", "TF2ItemsSimulator\TF2ItemsSimulatorContent\TF2ItemsSimulatorContent.contentproj", "{861DAD18-AE36-4083-A70C-FAA0CC0BEA2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95DBA777-68C5-4447-80DA-23B36D7DF7AA}.Debug|x86.ActiveCfg = Debug|x86
+		{95DBA777-68C5-4447-80DA-23B36D7DF7AA}.Debug|x86.Build.0 = Debug|x86
+		{95DBA777-68C5-4447-80DA-23B36D7DF7AA}.Release|x86.ActiveCfg = Release|x86
+		{95DBA777-68C5-4447-80DA-23B36D7DF7AA}.Release|x86.Build.0 = Release|x86
+		{861DAD18-AE36-4083-A70C-FAA0CC0BEA2E}.Debug|x86.ActiveCfg = Debug|x86
+		{861DAD18-AE36-4083-A70C-FAA0CC0BEA2E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
